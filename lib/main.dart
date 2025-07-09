@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:message/screen_1.dart';
+import 'package:message/splashscreen.dart';
 
 void main() {
-  runApp(MaterialApp(home: Screen1()));
+  runApp(MaterialApp(home: SplashScreen()));
 }
